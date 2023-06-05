@@ -196,6 +196,10 @@ int main(int argc, char **argv)
 ```
 ### Removing the memsets
 ```
+Developed By : G.Chethan Kumar
+Register no. : 212222240022
+```
+```
 #include "../common/common.h"
 #include <cuda_runtime.h>
 #include <stdio.h>
